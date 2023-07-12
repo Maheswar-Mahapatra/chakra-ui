@@ -5,6 +5,7 @@ import FlexLayout from './Components/FlexLayout'
 import Dashboard from './Components/Dashboard'
 import GridLayout from './Components/GridLayout'
 import Responsive from './Components/Responsive'
+import ListIcn from './Components/ListIcn'
 
 
 function App() {
@@ -15,7 +16,8 @@ function App() {
       {/* <FlexLayout/> */}
       {/* <Dashboard/> */}
       {/* <GridLayout/> */}
-      <Responsive/>
+      {/* <Responsive/> */}
+      <ListIcn />
     </>
   )
 }
